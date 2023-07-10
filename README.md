@@ -1,2 +1,16 @@
-# currency_app
-Currency  is a simple and easy-to-use app that provides live exchange rates for over 160 currencies. It also features a live graph that shows the exchange rate history between two currencies, as well as a real-time date and time display.  name  of currency for over 160 currencies Historical exchange rate graph Real-time date and time display
+# admob
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
